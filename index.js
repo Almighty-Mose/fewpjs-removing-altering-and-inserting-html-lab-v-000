@@ -1,2 +1,3 @@
 // Write your code here!
-document.remove('#main');
+document.getElementById('main').remove();
+let newHeader;
