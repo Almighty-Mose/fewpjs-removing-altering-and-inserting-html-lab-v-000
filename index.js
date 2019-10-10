@@ -1,2 +1,2 @@
 // Write your code here!
-document.remove('#main')
+document.remove('#main');
